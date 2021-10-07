@@ -23,6 +23,3 @@ const server = http.createServer((req, res) => {
 })
 
 server.listen(port);
-
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
